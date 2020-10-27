@@ -6,7 +6,7 @@ namespace BookShop_Test
 {
     class Class1
     {
-       // ICh teste es jetzt ein weiteres mal.
+       // ICh teste es jetzt ein weiteres mal 2.
         
         // Ich teste ob ich mitlerweile GitHub verwenden kann.
         public int Id { get; set; }
